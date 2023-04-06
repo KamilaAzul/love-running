@@ -9,7 +9,7 @@ body{
     font-weight: 300;
     color: #3a3a3a; 
 }
-body {background-color: rgb(236, 250, 44);}
+
 /*headings and logo*/
 h1,h1{font-family: Oswald, sans-serif;
 text-transform: uppercase;
@@ -35,4 +35,11 @@ margin-right:30px;}
 #menu a:hover{ border-bottom: 1px solid#3a3a3a;}
 .active{
     border-bottom: 1px solid #3a3a3a;
+}
+/* hero image*/
+#hero-image{
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero\ image.webp')no-repeat center center;
+    
 }
